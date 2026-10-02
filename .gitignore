@@ -1,0 +1,7 @@
+__pycache__/data_loader.cpython-311.pyc
+__pycache__/features.cpython-311.pyc
+model.joblib
+team_unpredictability.csv
+test_predictions.parquet
+/data_cache
+data_cache/pbp_2015_2023.parquet
