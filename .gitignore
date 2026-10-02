@@ -5,3 +5,6 @@ team_unpredictability.csv
 test_predictions.parquet
 /data_cache
 data_cache/pbp_2015_2023.parquet
+model_xgb.joblib
+test_predictions_xgb.parquet
+team_unpredictability_xgb.csv
